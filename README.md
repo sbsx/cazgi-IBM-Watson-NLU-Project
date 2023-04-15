@@ -12,25 +12,25 @@ A React project using IBM Watson's NLP to determine sentiment analysis of input 
 - [License](#license)
 
 ## Features
-
-Calls the Watson API for sentiment analysis
-React App for easy scalability
-
+<ul>
+  <li>Calls the Watson API for sentiment analysis</li>
+  <li>React App for easy scalability</li>
+</ul>
 ## Installation
-
-Clone the repo
-Install npm if necessary
-Run `npm install` inside the project directory
-Finally run `npm start`
-Open the webapp in your browser at localhost
-
+<ol>
+  <li>Clone the repo</li>
+  <li>Install npm if necessary</li>
+  <li>Run `npm install` inside the project directory</li>
+  <li>Finally run `npm start`</li>
+  <li>Open the webapp in your browser at localhost</li>
+</ol>
 ## Usage
-
-With an internet connection:
-Start the App
-Insert a UTF text
-Submit and wait for the results
-
+<ol>
+  <li>With an internet connection:</li>
+  <li>Start the App</li>
+  <li>Insert a UTF text</li>
+  <li>Submit and wait for the results</li>
+</ol>
 ## License
 
 Apache License, Version 2.0, January 2004
