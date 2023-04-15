@@ -1,4 +1,4 @@
-# Sentiment Analysis w/ IBM Watson
+Sentiment Analysis w/ IBM Watson
 
 ![Watson](https://img.stackshare.io/service/4696/preview.png)
 
@@ -16,7 +16,7 @@ A React project using IBM Watson's NLP to determine sentiment analysis of input 
   <li>Calls the Watson API for sentiment analysis</li>
   <li>React App for easy scalability</li>
 </ul>
-## Installation
+<h2>Installation</h2>
 <ol>
   <li>Clone the repo</li>
   <li>Install npm if necessary</li>
@@ -24,13 +24,13 @@ A React project using IBM Watson's NLP to determine sentiment analysis of input 
   <li>Finally run `npm start`</li>
   <li>Open the webapp in your browser at localhost</li>
 </ol>
-## Usage
+<h2>Usage</h2>
 <ol>
   <li>With an internet connection:</li>
   <li>Start the App</li>
   <li>Insert a UTF text</li>
   <li>Submit and wait for the results</li>
 </ol>
-## License
+<h2>License</h2>
 
 Apache License, Version 2.0, January 2004
